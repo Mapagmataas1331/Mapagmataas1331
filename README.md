@@ -9,16 +9,20 @@
         I'm Mapagmataas.
       </b>
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=C6FCFF&center=true&width=410&height=45&lines=I+code+beautiful+and+aesthetic+code.">
+        And I
+      <br>
+        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=C6FCFF&center=true&width=410&height=45&lines=Absolutely+Love+Coding+❤︎">
       <br>
       <b>
+        ~ My Website: 
         <a href="https://ma.cyou">
-          ~ My Website ~
+          ma.cyou
         </a>
+         ~
       </b>
+      <br>
+      Also check my <a href="https://gist.github.com/Mapagmataas1331">gists</a>.
     </samp>
-    <br><br>
-    Also check my <a href="https://gist.github.com/Mapagmataas1331">gists</a>.
   </p>
 <p align="right"><strong><samp>」</samp></strong></p>
 
