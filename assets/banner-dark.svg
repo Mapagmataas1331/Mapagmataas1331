@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Night sky over a planet horizon">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#070914"/>
+      <stop offset="55%" stop-color="#12152a"/>
+      <stop offset="100%" stop-color="#1a1630"/>
+    </linearGradient>
+    <radialGradient id="nebula" cx="22%" cy="35%" r="45%">
+      <stop offset="0%" stop-color="#5b7cfa" stop-opacity="0.35"/>
+      <stop offset="55%" stop-color="#7c5cff" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#7c5cff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="limb" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#8ec5ff" stop-opacity="0.95"/>
+      <stop offset="35%" stop-color="#3a4a7a" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#0a0c14" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" fill="url(#sky)"/>
+  <ellipse cx="260" cy="110" rx="320" ry="160" fill="url(#nebula)"/>
+  <g fill="#e8ecff" opacity="0.9">
+    <circle cx="80" cy="40" r="1.2"/><circle cx="140" cy="70" r="0.8"/><circle cx="210" cy="30" r="1.1"/>
+    <circle cx="300" cy="55" r="0.7"/><circle cx="380" cy="25" r="1.4"/><circle cx="460" cy="80" r="0.9"/>
+    <circle cx="540" cy="35" r="1.0"/><circle cx="620" cy="60" r="0.7"/><circle cx="700" cy="28" r="1.2"/>
+    <circle cx="780" cy="75" r="0.8"/><circle cx="860" cy="40" r="1.1"/><circle cx="940" cy="62" r="0.7"/>
+    <circle cx="1020" cy="30" r="1.3"/><circle cx="1100" cy="70" r="0.9"/><circle cx="1160" cy="45" r="0.8"/>
+    <circle cx="180" cy="110" r="0.6"/><circle cx="420" cy="100" r="0.7"/><circle cx="650" cy="95" r="0.6"/>
+    <circle cx="890" cy="110" r="0.8"/><circle cx="1050" cy="100" r="0.6"/><circle cx="60" cy="130" r="0.7"/>
+    <circle cx="520" cy="120" r="1.0"/><circle cx="760" cy="125" r="0.6"/><circle cx="980" cy="135" r="0.7"/>
+  </g>
+  <path d="M-40 250 Q300 190 600 220 T1240 210 L1240 320 L-40 320 Z" fill="url(#limb)"/>
+  <path d="M-40 248 Q300 188 600 218 T1240 208" fill="none" stroke="#9ec8ff" stroke-width="2" opacity="0.7"/>
+  <text x="60" y="168" fill="#f3f5ff" font-family="ui-sans-serif, system-ui, Segoe UI, sans-serif" font-size="42" font-weight="650">Timofey</text>
+  <text x="60" y="208" fill="#a9b3d4" font-family="ui-sans-serif, system-ui, Segoe UI, sans-serif" font-size="20">Web systems · databases · Linux — Novosibirsk</text>
+  <text x="60" y="242" fill="#8b9ad0" font-family="ui-monospace, Consolas, monospace" font-size="16">ma.cyou</text>
+</svg>
